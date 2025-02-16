@@ -23,7 +23,7 @@
 ### ⚡ Fun Fact
 I am just funny... but seriously, I enjoy solving engineering problems! 🤖
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="300" src="https://i.pinimg.com/736x/b4/65/cc/b465ccfe137e4db62142cb2fe063ffb6.jpg">
 
 
 ### 📱 Connect with Me:
