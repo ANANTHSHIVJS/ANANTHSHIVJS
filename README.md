@@ -98,4 +98,5 @@ Here are some of my notable projects:
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthshivjs&" alt="ananthshivjs" />
 </p>
----
+
+![snake gif](https://github.com/ANANTHSHIVJS/ANANTHSHIVJS/blob/output/github-snake-dark.svg)
