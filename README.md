@@ -83,14 +83,8 @@ Here are some of my notable projects:
 
 ### 📈 GitHub Stats
 
-#### Most Used Languages:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthshivjs&show_icons=true&locale=en&layout=compact" alt="ananthshivjs" />
-</p>
-
-#### GitHub Stats & Streaks:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthshivjs&show_icons=true&locale=en" alt="ananthshivjs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthshivjs&" alt="ananthshivjs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthshivjs&show_icons=true&locale=en&layout=compact" alt="ananthshivjs" width="300" height="150" /> <img src="https://github-readme-stats.vercel.app/api?username=ananthshivjs&show_icons=true&locale=en" alt="ananthshivjs" width="335" height="150" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthshivjs&" alt="ananthshivjs" width="355" height="150" />
 </p>
 </p>
 
