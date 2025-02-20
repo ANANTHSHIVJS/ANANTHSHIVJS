@@ -1,4 +1,4 @@
-<img align="left" alt="coding" width="1800" src="https://img.freepik.com/premium-photo/artificial-intelligence-with-human-eye-covered_9493-37289.jpg">
+  <img align="left" alt="coding" width="1800" src="https://img.freepik.com/premium-photo/artificial-intelligence-with-human-eye-covered_9493-37289.jpg">
 <a>                                                                                        
 
 </a>
@@ -88,14 +88,10 @@ Here are some of my notable projects:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthshivjs&show_icons=true&locale=en&layout=compact" alt="ananthshivjs" />
 </p>
 
-#### GitHub Stats Overview:
+#### GitHub Stats & Streaks:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananthshivjs&show_icons=true&locale=en" alt="ananthshivjs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananthshivjs&show_icons=true&locale=en" alt="ananthshivjs" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthshivjs&" alt="ananthshivjs" />
 </p>
-
-#### GitHub Streak:
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthshivjs&" alt="ananthshivjs" />
 </p>
 
 ![snake gif](https://github.com/ANANTHSHIVJS/ANANTHSHIVJS/blob/output/github-snake-dark.svg)
