@@ -1,4 +1,4 @@
-![logo](https://camo.githubusercontent.com/6a9884826749d338bab5112298db4e70c5c97bf6fd016f367e7bfc8ffc7e65cf/68747470733a2f2f6261636b6965652e636f6d2f7374617469632f77616c6c7061706572732f31303030783536332f3338363734352e6a7067)
+![logo]([https://media.lesechos.com/api/v1/images/view/5c46b5a58fe56f617417c8b5/1280x720/060506934719-web-tete.jpg](https://visionplusmag.com/wp-content/uploads/2019/03/Fotolia_199220556_Subscription_Monthly_M-1024x614.jpg))
 <h1 align="center">Hi 👋, I'm Ananth Shiv JS</h1>
 <h3 align="center">Mechatronics Engineer | Embedded System Developer</h3>
 
