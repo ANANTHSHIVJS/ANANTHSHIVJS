@@ -11,6 +11,17 @@
 
 ---
 
+### 📱 Connect Me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/ananth-shiv-js-03275026b" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananth-shiv-js-03275026b" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/__hy_itz_me_shiva__" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__hy_itz_me_shiva__" height="30" width="40" />
+  </a>
+</p>
+
 ### About Me
 
 🔭 I’m currently working on **Micro Controllers**  
@@ -28,21 +39,9 @@ I am just funny... but seriously, I enjoy solving engineering problems! 🤖
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZxbnBzNnNibDdkaHpyOGpnNTMyOGt4ZXo2Nng5cmVpcm9va20wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsuR2fiJIXe35Yq6UW/giphy.gif">
 
-
-### 📱 Connect with Me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/ananth-shiv-js-03275026b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananth-shiv-js-03275026b" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/__hy_itz_me_shiva__" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__hy_itz_me_shiva__" height="30" width="40" />
-  </a>
-</p>
-
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️Tech Stacks:
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a>
