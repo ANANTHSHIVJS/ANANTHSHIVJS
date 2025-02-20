@@ -1,4 +1,4 @@
-![logo](https://media-private.canva.com/0grNA/MAGfRl0grNA/1/p.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20250216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250216T002815Z&X-Amz-Expires=65906&X-Amz-Signature=b2836fbc5ee6fbc1d7b0054b3d1b8784d662fd7ddc53538f476c5a1cdb76fd0c&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sun%2C%2016%20Feb%202025%2018%3A46%3A41%20GMT)
+![logo](https://project.activedgetechnologies.com/wp-content/uploads/2022/10/slide-home2.jpg)
 <h1 align="center">Hi 👋, I'm Ananth Shiv JS</h1>
 <h3 align="center">Mechatronics Engineer | Embedded System Developer</h3>
 
