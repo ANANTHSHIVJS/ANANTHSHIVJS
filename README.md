@@ -1,4 +1,4 @@
-![logo](https://project.activedgetechnologies.com/wp-content/uploads/2022/10/slide-home2.jpg)
+![logo](https://camo.githubusercontent.com/6a9884826749d338bab5112298db4e70c5c97bf6fd016f367e7bfc8ffc7e65cf/68747470733a2f2f6261636b6965652e636f6d2f7374617469632f77616c6c7061706572732f31303030783536332f3338363734352e6a7067)
 <h1 align="center">Hi 👋, I'm Ananth Shiv JS</h1>
 <h3 align="center">Mechatronics Engineer | Embedded System Developer</h3>
 
