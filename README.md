@@ -1,4 +1,4 @@
-![logo](https://img.freepik.com/premium-photo/artificial-intelligence-with-human-eye-covered_9493-37289.jpg)
+<img align="left" alt="coding" width="1800" src="https://img.freepik.com/premium-photo/artificial-intelligence-with-human-eye-covered_9493-37289.jpg">
 <h1 align="center">Hi 👋, I'm Ananth Shiv JS</h1>
 <h3 align="center">Mechatronics Engineer | Embedded System Developer</h3>
 
