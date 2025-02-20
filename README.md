@@ -1,4 +1,4 @@
-![logo]([https://media.lesechos.com/api/v1/images/view/5c46b5a58fe56f617417c8b5/1280x720/060506934719-web-tete.jpg](https://visionplusmag.com/wp-content/uploads/2019/03/Fotolia_199220556_Subscription_Monthly_M-1024x614.jpg))
+![logo](https://img.freepik.com/premium-photo/artificial-intelligence-with-human-eye-covered_9493-37289.jpg)
 <h1 align="center">Hi 👋, I'm Ananth Shiv JS</h1>
 <h3 align="center">Mechatronics Engineer | Embedded System Developer</h3>
 
