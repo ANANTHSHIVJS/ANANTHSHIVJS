@@ -76,7 +76,7 @@ Here are some of my notable projects:
 - Used **ESP32** with **MQTT** for communication.
 
 #### 3. **Weather Monitoring System**
-- Designed using an **ESP32** and multiple sensors can collect real-time environmental data<br> such as temperature, humidity, pressure, air quality, and more..
+- Designed using an **ESP32** and multiple sensors can collect real-time environmental<br> data such as temperature, humidity, pressure, air quality, and more..
 - Integrated **Bluetooth** for communication with mobile devices.
 
 ---
