@@ -75,8 +75,8 @@ Here are some of my notable projects:
 - Created an IoT-based system for controlling home devices remotely.
 - Used **ESP32** with **MQTT** for communication.
 
-#### 3. **Wearable Health Monitoring System**
-- Designed a health tracker for vital parameters (heart rate, temperature, etc.).
+#### 3. **Weather Monitoring System**
+- Designed using an **ESP32** and multiple sensors can collect real-time environmental data such as temperature, humidity, pressure, air quality, and more..
 - Integrated **Bluetooth** for communication with mobile devices.
 
 ---
