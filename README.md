@@ -30,7 +30,7 @@
   - Enthusiast 🔧 Passionate about designing and integrating mechanical, electrical, and software systems.  
   - Experienced in embedded systems development, microcontrollers, and real-time applications.  
   - Working at the intersection of robotics, automation, and smart technologies.  
-  - Exploring innovative solutions with C/C++, Python, and IoT platforms.  
+  - Exploring innovative solutions with C, Python, and IoT platforms.  
   - Constantly learning and contributing to open-source projects in mechatronics and embedded systems.  
   **Let’s build the future, one project at a time!**
     
