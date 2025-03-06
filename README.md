@@ -33,7 +33,8 @@
     
 ### ⚡ Fun Fact
 I am just funny... but seriously, I enjoy solving engineering problems! 🤖
-
+---
+### 🏆Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthshivjs" alt="ananthshivjs" /></a> </p>
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZxbnBzNnNibDdkaHpyOGpnNTMyOGt4ZXo2Nng5cmVpcm9va20wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsuR2fiJIXe35Yq6UW/giphy.gif">
