@@ -1,17 +1,13 @@
   <img align="left" alt="coding" width="1800" src="https://img.freepik.com/premium-photo/artificial-intelligence-with-human-eye-covered_9493-37289.jpg">
 <a>                                                                                        
 
+
 </a>
 <h1 align="center">Hi 👋, I'm Ananth Shiv JS</h1>
-<h3 align="center">Mechatronics Engineer | Embedded System Developer</h3>
-
----
-<!-- Header Image -->
-
+<h3 align="center">Mechatronics Engineer  |  Robotics & Embedded Systems Developer  |  IoT & Automation Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthshivjs&label=Profile%20views&color=0e75b6&style=flat" alt="ananthshivjs" /> </p>
 
-
-### 📱 Connect Me:
+### 📱 Connect Me : 
 
 <p align="left">
 <a href="https://twitter.com/shiva87788626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiva87788626" height="30" width="40" /></a>
@@ -24,8 +20,8 @@
 
 ### About Me
 
-🔭 I’m currently working on **Micro Controllers**  
-🌱 I’m currently learning **OOPS & SQL**  
+🔭 I’m currently working on **Micro Controllers & Processors**  
+🌱 I’m currently learning **OOPS & Full Stack Development**  
 💬 **Ask me about**:  
   - Enthusiast 🔧 Passionate about designing and integrating mechanical, electrical, and software systems.  
   - Experienced in embedded systems development, microcontrollers, and real-time applications.  
