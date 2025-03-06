@@ -82,8 +82,15 @@ Here are some of my notable projects:
 ---
 
 ### 📈 GitHub Stats
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthshivjs&show_icons=true&locale=en&layout=compact" alt="ananthshivjs" width="253" height="120" /> <img src="https://github-readme-stats.vercel.app/api?username=ananthshivjs&show_icons=true&locale=en" alt="ananthshivjs" width="283" height="140" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthshivjs&" alt="ananthshivjs" width="298" height="140" />
-</p>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=ANANTHSHIVJS&theme=radical&hide_border=true)  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANANTHSHIVJS&show_icons=true&theme=radical&hide_border=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANANTHSHIVJS&layout=compact&theme=radical&hide_border=true)  
+
+</div>
+
 </p>
 
 ![snake gif](https://github.com/ANANTHSHIVJS/ANANTHSHIVJS/blob/output/github-snake-dark.svg)
