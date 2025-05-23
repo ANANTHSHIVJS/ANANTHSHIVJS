@@ -59,9 +59,10 @@ Here are some of my notable projects:
 - Built a robot using **Arduino** and **ESP 32** with sensors and actuators.
 - Used **C/C++** for processing data and real-time decision-making.
 
-#### 2. **Smart Home Automation System**
-- Created an IoT-based system for controlling home devices remotely.
-- Used **ESP32** with **MQTT** for communication.
+#### 2. **Polyhouse Automation System**
+- ESP32/ESP8266 collect data from sensors (temperature, humidity, soil moisture, pH, EC, light, CO₂) and control devices like pumps, fans, misters, and shade nets using relays — automating climate and 
+  irrigation based on real-time conditions.
+- Data is sent to platforms like Blynk, MQTT, or Firebase, enabling farmers to monitor and control the polyhouse remotely via smartphone, with alerts and logs for efficient, sustainable crop management.
 
 #### 3. **Weather Monitoring System**
 - Designed using an **ESP32** and multiple sensors can collect real-time environmental<br> data such as temperature, humidity, pressure, air quality, and more..
