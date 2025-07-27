@@ -43,7 +43,7 @@ I am just funny... but seriously, I enjoy solving engineering problems! 🤖
 ### 📫 How to Reach Me
 - **Email**   : [mr.ananthshiv@gmail.com](mailto:mr.ananthshiv@gmail.com)
 - **LinkedIn**: [Ananth Shiv JS](https://www.linkedin.com/in/ananth-shiv-js-03275026b)
-- **Resume**  : [My Experience](https://app.luminpdf.com/viewer/67b1b13765d3adec4b63d9e0)
+- **Resume**  : [My Experience]([https://app.luminpdf.com/viewer/67b1b13765d3adec4b63d9e0](https://app.luminpdf.com/viewer/6885d7dc2002eb251a4f10e1))
 
 ### 🛠️Tech Stacks:
 
