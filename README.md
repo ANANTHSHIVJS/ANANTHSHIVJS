@@ -20,15 +20,14 @@
 
 ### About Me
 
-🔭 I’m currently working on **Micro Controllers & Processors**  
-🌱 I’m currently learning **OOPS & Full Stack Development**  
-💬 **Ask me about**:  
-  - Enthusiast 🔧 Passionate about designing and integrating mechanical, electrical, and software systems.  
-  - Experienced in embedded systems development, microcontrollers, and real-time applications.  
-  - Working at the intersection of robotics, automation, and smart technologies.  
-  - Exploring innovative solutions with C, C++, Python, and IoT platforms.  
-  - Constantly learning and contributing to open-source projects in mechatronics and embedded systems.  
-  **Let’s build the future, one project at a time!**
+I'm a Robotics & Embedded Systems Engineer who designs and builds end-to-end autonomous robotic platforms — from embedded control and sensor fusion to AI-based decision-making and IoT connectivity. My work sits at the intersection of robotics, sustainable mobility, agri-tech, public safety, and smart-city automation — the exact frontier technologies that shape a future-ready city like Dubai.
+
+🔭 Currently building autonomous inspection and agricultural robotics platforms at Unique World Robotics, Dubai
+🌱 Currently deepening my skills in AI/Edge AI, Computer Vision, and Full-Stack Development
+🤝 Open to collaborating on autonomous systems, smart-city, and government-innovation projects
+💬 Ask me about: robotics system design, embedded firmware, IoT architecture, sensor fusion, or autonomous navigation
+
+Let's build the future, one system at a time.
     
 ### ⚡ Fun Fact
 I am just funny... but seriously, I enjoy solving engineering problems! 🤖
