@@ -1,10 +1,12 @@
-  <img align="left" alt="coding" width="1800" src="https://img.freepik.com/premium-photo/artificial-intelligence-with-human-eye-covered_9493-37289.jpg">
+  <img align="left" alt="coding" width="1800" src="https://drive.google.com/file/d/1ZYkWnCW7VuOwQDfUoUjFiGWyO6tx_wME/view?usp=drive_link">
 <a>                                                                                        
 
 
 </a>
-<h1 align="center">Hi 👋, I'm Ananth Shiv JS</h1>
-<h3 align="center">Mechatronics Engineer  |  Robotics & Embedded Systems Developer  |  IoT & Automation Enthusiast</h3>
+<h2 align="center">Hi, I'm Ananth Shiv JS
+
+Robotics Engineer • Embedded Systems Developer • AI & Autonomous Systems</h2>
+<h3 align="center">Building Intelligent Robots for Smart Cities, Agriculture & Industrial Automation</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthshivjs&label=Profile%20views&color=0e75b6&style=flat" alt="ananthshivjs" /> </p>
 
 📱 Connect Me :
@@ -34,16 +36,15 @@ Let's build the future, one system at a time.
 ### ⚡ Fun Fact
 I am just funny... but seriously, I enjoy solving engineering problems! 🤖
 ---
-### 🏆Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ananthshivjs" alt="ananthshivjs" /></a> </p>
+### 🏆 GitHub Trophies
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ANANTHSHIVJS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
+
+</p>
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZxbnBzNnNibDdkaHpyOGpnNTMyOGt4ZXo2Nng5cmVpcm9va20wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsuR2fiJIXe35Yq6UW/giphy.gif">
 
-
-### 📫 How to Reach Me
-- **Email**   : [mr.ananthshiv@gmail.com](mailto:mr.ananthshiv@gmail.com)
-- **LinkedIn**: [Ananth Shiv JS](https://www.linkedin.com/in/ananth-shiv-js-03275026b)
-- **Resume**  : [My Experience]([https://app.luminpdf.com/viewer/67b1b13765d3adec4b63d9e0](https://app.luminpdf.com/viewer/6885d7dc2002eb251a4f10e1)
 
 ### 🛠️Tech Stacks:
 
@@ -80,14 +81,14 @@ Here are some of my notable projects:
 -Developed a GPS geofencing system for automatic speed regulation and driver safety.
 -Integrated real-time alerts, telemetry, and energy-efficient control systems for electric vehicles.
 
-
 ---
 
-## 📊 GitHub Analytics
+
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANANTHSHIVJS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANANTHSHIVJS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANANTHSHIVJS&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -96,6 +97,18 @@ Here are some of my notable projects:
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANANTHSHIVJS&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ANANTHSHIVJS&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANANTHSHIVJS&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
