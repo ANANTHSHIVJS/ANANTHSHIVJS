@@ -18,6 +18,8 @@
 
 </p>
 
+📍 Based in Dubai, UAE
+
 ### About Me
 
 I'm a Robotics & Embedded Systems Engineer who designs and builds end-to-end autonomous robotic platforms — from embedded control and sensor fusion to AI-based decision-making and IoT connectivity. My work sits at the intersection of robotics, sustainable mobility, agri-tech, public safety, and smart-city automation — the exact frontier technologies that shape a future-ready city like Dubai.
