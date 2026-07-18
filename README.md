@@ -83,9 +83,20 @@ Here are some of my notable projects:
 
 ---
 
-### 📈 GitHub Stats
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananthshivjs&show_icons=true&locale=en&layout=compact" alt="ananthshivjs" width="253" height="140" /> <img src="https://github-readme-stats.vercel.app/api?username=ananthshivjs&show_icons=true&locale=en" alt="ananthshivjs" width="283" height="140" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthshivjs&" alt="ananthshivjs" width="298" height="140" />
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ANANTHSHIVJS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANANTHSHIVJS&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ANANTHSHIVJS&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ![snake gif](https://github.com/ANANTHSHIVJS/ANANTHSHIVJS/blob/output/github-snake-dark.svg)
