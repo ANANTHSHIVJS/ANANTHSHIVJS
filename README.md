@@ -7,16 +7,15 @@
 <h3 align="center">Mechatronics Engineer  |  Robotics & Embedded Systems Developer  |  IoT & Automation Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ananthshivjs&label=Profile%20views&color=0e75b6&style=flat" alt="ananthshivjs" /> </p>
 
-### 📱 Connect Me : 
+📱 Connect Me :
 
 <a href="https://twitter.com/shiva87788626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shiva87788626" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ananth-shiv-js/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ananth-shiv-js/" height="30" width="40" /></a>
-<a href="https://instagram.com/__hy_itz_mr_shiva__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__hy_itz_mr_shiva__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mr_ananthshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mr_ananthshiv" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ananth-shiv-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananth-shiv-js" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mr_ananthshiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mr_ananthshiv" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ananthshivjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ananthshivjs" height="30" width="40" /></a>
-<a href="https://discord.gg/ananthshivjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ananthshivjs" height="30" width="40" /></a>
-<a href="mailto:your-mr.ananthshiv@gmail.com" target="_blank">
+<a href="mailto:mr.ananthshiv@gmail.com" target="_blank">
 <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="30" width="30" /></a>
+
 </p>
 
 ### About Me
