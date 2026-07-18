@@ -55,18 +55,31 @@ I am just funny... but seriously, I enjoy solving engineering problems! 🤖
 
 Here are some of my notable projects:
 
-#### 1. **Automated fite fighting robot**
-- Built a robot using **Arduino** and **ESP 32** with sensors and actuators.
-- Used **C/C++** for processing data and real-time decision-making.
+#### 1. **AI-Powered Autonomous Firefighting Robot**
+- Designed and developed an autonomous firefighting robot using ESP32, flame, smoke, and temperature sensors.
+- Implemented AI-based fire detection, navigation, and suppression with a motorized water-spraying system.
+- Integrated IoT-based remote monitoring and control for real-time emergency response.
 
-#### 2. **Polyhouse Automation System**
-- ESP32/ESP8266 collect data from sensors (temperature, humidity, soil moisture, pH, EC, light, CO₂) and control devices like pumps, fans, misters, and shade nets using relays — automating climate and 
-  irrigation based on real-time conditions.
-- Data is sent to platforms like Blynk, MQTT, or Firebase, enabling farmers to monitor and control the polyhouse remotely via smartphone, with alerts and logs for efficient, sustainable crop management.
+#### 2. **Smart Polyhouse Automation System**
+- Developed an IoT-enabled smart farming system using ESP32/ ESP8266 architecture.
+- Integrated environmental sensors for real-time monitoring of climate and soil conditions.
+- Automated irrigation, ventilation, lighting, and climate control through intelligent actuator management.
 
-#### 3. **Weather Monitoring System**
-- Designed using an **ESP32** and multiple sensors can collect real-time environmental<br> data such as temperature, humidity, pressure, air quality, and more..
-- Integrated **Bluetooth** for communication with mobile devices.
+#### 3. **Autonomous Agricultural Rover with AI Crop Analysis**
+- Designed an autonomous agricultural rover with seeding, sapling planting, and crop inspection capabilities.
+- Developed AI models for plant health analysis, nutrient deficiency detection, and pest identification.
+- Integrated computer vision and remote monitoring for precision agriculture applications.
+
+#### 4. **Hexapod Inspection Robot with LiDAR Mapping**
+- Built a six-legged autonomous robot for terrain exploration and site inspection.
+- Integrated LiDAR-based 3D mapping and digital twin generation for environmental analysis.
+- Enabled real-time sensor data collection and wireless monitoring through a cloud dashboard.
+
+#### 5. **Smart EV Charging Station & GPS Overspeed Limiter**
+-Designed and implemented an automated EV charging station with IoT-based monitoring and management.
+-Developed a GPS geofencing system for automatic speed regulation and driver safety.
+-Integrated real-time alerts, telemetry, and energy-efficient control systems for electric vehicles.
+
 
 ---
 
