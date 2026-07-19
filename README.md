@@ -5,7 +5,7 @@
 </a>
 <h2 align="center">Welcome to my Robotics Lab 👋
 
-I'm Ananth Shiv JS
+ANANTH Here
 
 Robotics Engineer • Embedded Systems Developer • AI & Autonomous Systems</h2>
 <h3 align="center">Building Intelligent Robots for Smart Cities, Agriculture & Industrial Automation</h3>
@@ -38,15 +38,6 @@ Let's build the future, one system at a time.
 ### ⚡ Fun Fact
 I am just funny... but seriously, I enjoy solving engineering problems! 🤖
 ---
-### 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ANANTHSHIVJS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=2&column=4"/>
-
-</p>
-<img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZxbnBzNnNibDdkaHpyOGpnNTMyOGt4ZXo2Nng5cmVpcm9va20wMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JsuR2fiJIXe35Yq6UW/giphy.gif">
-
 
 ### 🛠️Tech Stacks:
 
