@@ -1,9 +1,11 @@
-  <img align="left" alt="coding" width="1800" src="https://drive.google.com/file/d/1ZYkWnCW7VuOwQDfUoUjFiGWyO6tx_wME/view?usp=drive_link">
+  <img align="left" alt="coding" width="1800" src="assets/Banner1.png">
 <a>                                                                                        
 
 
 </a>
-<h2 align="center">Hi, I'm Ananth Shiv JS
+<h2 align="center">Welcome to my Robotics Lab 👋
+
+I'm Ananth Shiv JS
 
 Robotics Engineer • Embedded Systems Developer • AI & Autonomous Systems</h2>
 <h3 align="center">Building Intelligent Robots for Smart Cities, Agriculture & Industrial Automation</h3>
