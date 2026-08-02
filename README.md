@@ -1,4 +1,11 @@
-  <img align="left" alt="coding" width="1800" src="assets/Banner1.png">
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANANTHSHIVJS/ANANTHSHIVJS/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANANTHSHIVJS/ANANTHSHIVJS/main/light.svg">
+  <img alt="Arif Hasan" src="https://raw.githubusercontent.com/ANANTHSHIVJS/ANANTHSHIVJS/main/light.svg">
+</picture>
 <a>                                                                                        
 
 
